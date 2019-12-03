@@ -1,8 +1,8 @@
 
 
 
-Install vcpkg then install the following packages : 
-vcpkg install boost:x64-windows-static  And
+Install vcpkg then install the following packages: 1 - 
+vcpkg install boost:x64-windows-static 2 - 
 vckpg install cryptopp:x64-windows-static
 
 go to project properties -> C/C++ -> Code Generation -> Runtime Library and change that else you will get 
