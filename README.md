@@ -1,4 +1,4 @@
-# SecureCheatLoader-By-Frankoo
+
 
 
 Install vcpkg then install the following packages : 
